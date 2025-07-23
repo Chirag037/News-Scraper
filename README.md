@@ -5,7 +5,7 @@ A Python-based tool that scrapes real-time news articles from various websites u
 ---
 This is the sample screenshot of this news scraper
 ![Alt text](a.png)
-![Alt text](b.png)
+![Second image](b.png)
 
 
 ## 🚀 Features
