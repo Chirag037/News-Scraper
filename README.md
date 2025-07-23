@@ -32,19 +32,7 @@ This is the sample screenshot of this news scraper
 
 ---
 
-## 📂 Project Structure
 
-news-scraper/
-│
-├── scraper.py # Main scraping logic
-├── config.py # Configurable URLs and keywords
-├── sentiment.py # Sentiment analysis module (optional)
-├── utils.py # Helper functions
-├── requirements.txt # Python dependencies
-├── README.md # Project documentation
-└── output/
-├── news_data.csv # Scraped news data (CSV format)
-└── news_data.json # Scraped news data (JSON format)
 
 
 ---
